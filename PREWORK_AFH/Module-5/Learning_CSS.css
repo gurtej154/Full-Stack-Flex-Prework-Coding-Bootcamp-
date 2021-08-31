@@ -1,0 +1,25 @@
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1>CSS coding tutorial</h1>
+<p>My first line of code.</p>
+
+</body>
+</html>

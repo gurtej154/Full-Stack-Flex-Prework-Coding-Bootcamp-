@@ -1,0 +1,51 @@
+.center {
+    text-align: center;
+}
+
+.text1 {
+    color: red;
+}
+
+.text2 {
+    color: blue;
+}
+
+.text3 {
+    color: green;
+}
+
+.center {
+    text-align: center;
+}
+
+.enlarged {
+    font-size: 30px;
+}
+
+.small {
+    font-size: 10px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.font-type {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.funky {
+    color: orange;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.styledFont {
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+#styledImage {
+    border: 7px solid #daa520
+}
